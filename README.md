@@ -6,6 +6,6 @@
 
 #### feature
 ```
-1. add feature/addTest
+1. add feature/addtest
 ```
 
