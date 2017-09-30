@@ -1,2 +1,11 @@
-#### Testing Git Flow
+### Testing Git Flow
+#### branch
+```
+1. develop
+```
+
+#### feature
+```
+1. add feature/addtest
+```
 
